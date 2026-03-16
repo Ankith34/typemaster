@@ -122,7 +122,7 @@ Inspired by [MonkeyType](https://monkeytype.com). Built with a flat, distraction
  
 ## 📄 License
  
-MIT © [your-username](https://github.com/your-username)
+MIT © [Ankith34](https://github.com/your-username)
  
 ---
  
