@@ -12,7 +12,7 @@
  
 <br/>
  
-![TypeMaster Screenshot]<img width="1401" height="758" alt="Screenshot 2026-03-16 235639" src="https://github.com/user-attachments/assets/e5ad32f6-60e3-4b10-b127-c7327e7b8e6b" />
+<img width="1401" height="758" alt="Screenshot 2026-03-16 235639" src="https://github.com/user-attachments/assets/e5ad32f6-60e3-4b10-b127-c7327e7b8e6b" />
 
  
 > **No accounts. No distractions. Just type.**
