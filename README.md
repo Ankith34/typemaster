@@ -7,7 +7,7 @@
 **A clean, minimal typing speed test — inspired by MonkeyType**
  
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Create React App](https://img.shields.io/badge/CRA-5-09D3AC?style=flat-square&logo=create-react-app&logoColor=white)](https://create-react-app.dev)
 [![License](https://img.shields.io/badge/license-MIT-e2b714?style=flat-square)](LICENSE)
  
 <br/>
@@ -45,89 +45,18 @@
  
 ### Prerequisites
  
-- [Node.js](https://nodejs.org) v18+
+- [Node.js](https://nodejs.org) v14+
 - npm or yarn
  
 ### Installation
  
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/typemaster.git
+git clone https://github.com/Ankith34/typemaster.git
 cd typemaster
  
 # Install dependencies
 npm install
  
-# Start the dev server
-npm run dev
-```
- 
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
- 
-### Build for Production
- 
-```bash
-npm run build
-npm run preview
-```
- 
----
- 
-## 🎮 How to Use
- 
-| Key | Action |
-|-----|--------|
-| **Start typing** | Test begins automatically |
-| `Space` | Move to next word |
-| `Backspace` | Delete last character |
-| `Tab` | Restart test instantly |
-| `Tab` + `Enter` | Restart from results screen |
- 
----
- 
-## 🏗 Project Structure
- 
-```
-src/
-├── App.jsx        # Main app — all components and logic
-├── main.jsx       # React entry point
-└── index.html     # HTML shell
-```
- 
----
- 
-## 🎨 Design
- 
-Inspired by [MonkeyType](https://monkeytype.com). Built with a flat, distraction-free aesthetic:
- 
-| Token | Value |
-|-------|-------|
-| Background | `#2c2e31` |
-| Accent (yellow) | `#e2b714` |
-| Correct text | `#d1d0c5` |
-| Untyped text | `#646669` |
-| Error text | `#ca4754` |
-| Font | Roboto Mono 300/400 |
- 
----
- 
-## 🛠 Tech Stack
- 
-- **React 18** — UI and state
-- **Vite** — build tool and dev server
-- **Roboto Mono** (Google Fonts) — monospace font
-- Zero external dependencies beyond React
- 
----
- 
-## 📄 License
- 
-MIT © [Ankith34](https://github.com/your-username)
- 
----
- 
-<div align="center">
- 
-Made with ⌨ and too much coffee
- 
-</div>
+# Start the development server
+npm start
